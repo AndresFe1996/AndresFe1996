@@ -9,3 +9,5 @@ Debo aceptar que el camino del programador a sido dificil, pues muchos conceptos
 
 Me gusta mucho la estadistica, mi meta es ser cientifico de datos, tengo libros sobre esto y realizo una que otra ves desarrollos de investigacion usando el poder de python.
 
+![python](https://media.tenor.com/zU39pT3NmA0AAAAS/thinking-the-hangover.gif)
+
