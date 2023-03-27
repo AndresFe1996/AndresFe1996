@@ -6,6 +6,7 @@ Debo aceptar que el camino del programador a sido dificil, pues muchos conceptos
 1. Python
 2. SQL
 3. R
+4. Git
 
 Me gusta mucho la estadistica, mi meta es ser cientifico de datos, tengo libros sobre esto y realizo una que otra ves desarrollos de investigacion usando el poder de python.
 
