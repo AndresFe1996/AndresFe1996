@@ -12,3 +12,5 @@ Me gusta mucho la estadistica, mi meta es ser cientifico de datos, tengo libros 
 
 ![python](https://media.tenor.com/zU39pT3NmA0AAAAS/thinking-the-hangover.gif)
 
+Por otro lado, cuento con experiencia en visualizacion de datos usando Power BI y excel nivel avanzado.
+
