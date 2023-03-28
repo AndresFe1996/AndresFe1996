@@ -14,3 +14,5 @@ Me gusta mucho la estadistica, mi meta es ser cientifico de datos, tengo libros 
 
 Por otro lado, cuento con experiencia en visualizacion de datos usando Power BI y excel nivel avanzado.
 
+### Mis redes sociales:
+[![Linkedin](https://www.flaticon.es/icono-gratis/linkedin_174857)](https://www.linkedin.com/in/andres-felipe-cabiativa-chavarro-b9aa01110/)
