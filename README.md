@@ -3,7 +3,7 @@
 </p>
 
 # ¡ Hola a todos ! , 
-Mi nombre es Andres, me encanta el mundo del análisis de datos y de la programación. Hace 1 año obtuve mi titulo como economista, y veo mi profesión involucrada con los datos todo el tiempo.
+Mi nombre es Andres, me encanta el mundo del análisis de datos y de la programación. Economista de profesion, el mundo de los datos es el pan del dia a dia y aprender python me permitio abrirme a un mundo de nuevas posibilidades.
 
 Debo aceptar que el camino del programador a sido difícil, pues muchos conceptos son nuevos, pero vaya, si que el mundo es globalizado y el conocimiento a la vuelta de la esquina. Considero esto como un hobbie, pero bueno, uno nunca sabe cuando un hobbie se convierte en otra profesión.
 
