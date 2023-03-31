@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="300" src="https://www.grazitti.com/assets/2020/02/Analytics_amp_Data_Science.gif">
+  <img width="1000" height="300" src="https://jordan-wright.com/blog/images/headers/svg/ossmalware.svg">
 </p>
 
 # ¡ Hola a todos ! , 
